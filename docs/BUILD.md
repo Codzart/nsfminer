@@ -31,6 +31,10 @@ This project uses [CMake] and [Hunter] package manager.
 
 ```shell
 sudo apt install libdbus-1-dev
+
+or
+
+sudo yum install dbus-devel
 ```
 
 #### OpenCL support on Linux
